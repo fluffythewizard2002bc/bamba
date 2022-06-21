@@ -1,2 +1,2 @@
 # bamba
-building in progree, will consist of react, node, and logic.
+building in progree, will consist of react, node.
